@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TechHuddle\\source\\repos\\DataTypesAnd VariablesAscent\\DataTypesAnd VariablesAscent\\DataTypesAnd VariablesAscent.csproj": {}
+    "C:\\Users\\TechHuddle\\source\\repos\\DataTypesAnd VariablesAscent\\Ex2\\Ex2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TechHuddle\\source\\repos\\DataTypesAnd VariablesAscent\\DataTypesAnd VariablesAscent\\DataTypesAnd VariablesAscent.csproj": {
+    "C:\\Users\\TechHuddle\\source\\repos\\DataTypesAnd VariablesAscent\\Ex2\\Ex2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TechHuddle\\source\\repos\\DataTypesAnd VariablesAscent\\DataTypesAnd VariablesAscent\\DataTypesAnd VariablesAscent.csproj",
-        "projectName": "DataTypesAnd VariablesAscent",
-        "projectPath": "C:\\Users\\TechHuddle\\source\\repos\\DataTypesAnd VariablesAscent\\DataTypesAnd VariablesAscent\\DataTypesAnd VariablesAscent.csproj",
+        "projectUniqueName": "C:\\Users\\TechHuddle\\source\\repos\\DataTypesAnd VariablesAscent\\Ex2\\Ex2.csproj",
+        "projectName": "Ex2",
+        "projectPath": "C:\\Users\\TechHuddle\\source\\repos\\DataTypesAnd VariablesAscent\\Ex2\\Ex2.csproj",
         "packagesPath": "C:\\Users\\TechHuddle\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TechHuddle\\source\\repos\\DataTypesAnd VariablesAscent\\DataTypesAnd VariablesAscent\\obj\\",
+        "outputPath": "C:\\Users\\TechHuddle\\source\\repos\\DataTypesAnd VariablesAscent\\Ex2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TechHuddle\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -26,8 +26,8 @@
           "https://ascentsoftware.pkgs.visualstudio.com/_packaging/Ascent%40Local/nuget/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -38,8 +38,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",
